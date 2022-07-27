@@ -1,0 +1,17 @@
+C:\Users\aligu\OneDrive\Belgeler\VSProjeler\NotepadBetter\NotepadBetter\bin\Debug\net6.0-windows\NotepadBetter.exe
+C:\Users\aligu\OneDrive\Belgeler\VSProjeler\NotepadBetter\NotepadBetter\bin\Debug\net6.0-windows\NotepadBetter.deps.json
+C:\Users\aligu\OneDrive\Belgeler\VSProjeler\NotepadBetter\NotepadBetter\bin\Debug\net6.0-windows\NotepadBetter.runtimeconfig.json
+C:\Users\aligu\OneDrive\Belgeler\VSProjeler\NotepadBetter\NotepadBetter\bin\Debug\net6.0-windows\NotepadBetter.dll
+C:\Users\aligu\OneDrive\Belgeler\VSProjeler\NotepadBetter\NotepadBetter\bin\Debug\net6.0-windows\NotepadBetter.pdb
+C:\Users\aligu\OneDrive\Belgeler\VSProjeler\NotepadBetter\NotepadBetter\obj\Debug\net6.0-windows\NotepadBetter.csproj.AssemblyReference.cache
+C:\Users\aligu\OneDrive\Belgeler\VSProjeler\NotepadBetter\NotepadBetter\obj\Debug\net6.0-windows\NotepadBetter.Form1.resources
+C:\Users\aligu\OneDrive\Belgeler\VSProjeler\NotepadBetter\NotepadBetter\obj\Debug\net6.0-windows\NotepadBetter.csproj.GenerateResource.cache
+C:\Users\aligu\OneDrive\Belgeler\VSProjeler\NotepadBetter\NotepadBetter\obj\Debug\net6.0-windows\NotepadBetter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aligu\OneDrive\Belgeler\VSProjeler\NotepadBetter\NotepadBetter\obj\Debug\net6.0-windows\NotepadBetter.AssemblyInfoInputs.cache
+C:\Users\aligu\OneDrive\Belgeler\VSProjeler\NotepadBetter\NotepadBetter\obj\Debug\net6.0-windows\NotepadBetter.AssemblyInfo.cs
+C:\Users\aligu\OneDrive\Belgeler\VSProjeler\NotepadBetter\NotepadBetter\obj\Debug\net6.0-windows\NotepadBetter.csproj.CoreCompileInputs.cache
+C:\Users\aligu\OneDrive\Belgeler\VSProjeler\NotepadBetter\NotepadBetter\obj\Debug\net6.0-windows\NotepadBetter.dll
+C:\Users\aligu\OneDrive\Belgeler\VSProjeler\NotepadBetter\NotepadBetter\obj\Debug\net6.0-windows\refint\NotepadBetter.dll
+C:\Users\aligu\OneDrive\Belgeler\VSProjeler\NotepadBetter\NotepadBetter\obj\Debug\net6.0-windows\NotepadBetter.pdb
+C:\Users\aligu\OneDrive\Belgeler\VSProjeler\NotepadBetter\NotepadBetter\obj\Debug\net6.0-windows\NotepadBetter.genruntimeconfig.cache
+C:\Users\aligu\OneDrive\Belgeler\VSProjeler\NotepadBetter\NotepadBetter\obj\Debug\net6.0-windows\ref\NotepadBetter.dll
